@@ -1,4 +1,4 @@
-<h1>Magento Marketplace Table Rate Shipping Module Features</h1>
+<h1>Magento Marketplace Table Rate Shipping Module</h1>
 
 <p><span style="color:rgb(99, 99, 99); font-family:roboto,helvetica neue,helvetica,arial,sans-serif; font-size:14px">Magento Marketplace Table Rate Shipping plugin allow Vendor can import Table Rates shipping via file csv or they can enter the shipping detail as country, zip code, state, price, weight, shipping title directly. It is useful for the vendors to create custom shipping method for their customer</span></p>
 
